@@ -8,6 +8,12 @@ There isn't a whole lot of magic involved in being able to hire well.
 When I first started hiring at our startup with 5 employees, we didn't have any established hiring processes and every search was its own special snowflake.
 By the time we'd grown to 150+ folks, I'd figured out a process that worked for me and that consistently gave us high-quality, successful hires.
 
+I wasn't any good at writing reasonable job descriptions, I didn't have clear hiring processes, I didn't have a good sense of what I needed, and I didn't really know how to evaluate candidates. This meant that with every new candidate, I was starting from scratch and inventing yet another wheel. 
+
+Our job descriptions were broad and vague, and we also didn’t really know what we were looking for or how to evaluate them, so few candidates had a chance to make it through our whole process. We also used to wait to figure out the next step after each call, so it’d take months to get to an offer and by then candidates would be pretty unenthusiastic about us (or have accepted another offer), if we ever got there. It was bad for us, it was bad for the candidates, and it was bad for the company.
+
+
+
 In previous posts in this series, I went over general strategies and principles for hiring.
 In this post, I'll share more of the nuts and bolts of a good hiring process.
 Of course, nothing in this blog post is unique or ground-breaking.

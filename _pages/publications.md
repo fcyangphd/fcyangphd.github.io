@@ -10,87 +10,67 @@ Check out my [Google Scholar profile](https://scholar.google.com/citations?user=
 
 A highlighted subset are listed below - these are papers I played a large role in or am otherwise proud to have as part of my portfolio.
 
-**Claire Duvallet**, Fuqing Wu, Kyle A. McElroy, Maxim Imakaev ... Eric J. Alm, and Mariana Matus.    
-"Nationwide Trends in COVID-19 Cases and SARS-CoV-2 RNA Wastewater Concentrations in the United States."     
-_ACS ES&T Water_ (2022). doi: [10.1021/acsestwater.1c00434](https://doi.org/10.1021/acsestwater.1c00434)
+> **Claire Duvallet**, Sean M. Gibbons, Thomas Gurry, Rafael A. Irizarry, and Eric J. Alm. "Meta-analysis of gut microbiome studies identifies disease-specific and shared responses." _Nature Communications_ (2017). doi: [10.1038/s41467-017-01973-8](https://doi.org/10.1038/s41467-017-01973-8). Associated github: [cduvallet/microbiomeHD](https://github.com/cduvallet/microbiomeHD). Associated data:[zenodo record 840333](https://doi.org/10.5281/zenodo.797943).
 
-Amy Xiao ... **Claire Duvallet** ... Janelle Thompson, and Eric J Alm.   
-"Metrics to relate COVID-19 wastewater data to clinical testing dynamics."   
-_Water research_ (2022). doi: [10.1016/j.watres.2022.118070](https://doi.org/10.1016/j.watres.2022.118070)
+This was my primary PhD paper, and the work I'm proudest of by far. I re-analyzed 30 different microbiome datasets to figure out whether there were consistent associations with disease or if the same bugs showed up all the time. I'm super proud of how the paper is written, and that I also made all my data available and analyses and figures reproducible via github. I learned the majority of my transferrable technical skills from this work. 
 
-Scott W Olesen, Maxim Imakaev, and **Claire Duvallet**.    
-"Making waves: Defining the lead time of wastewater-based epidemiology for COVID-19."    
-_Water Research_ (2021). doi: [10.1016/j.watres.2021.117433](https://doi.org/10.1016/j.watres.2021.117433)
+> **Claire Duvallet**, Fuqing Wu, Kyle A. McElroy, Maxim Imakaev ... Eric J. Alm, and Mariana Matus. "Nationwide Trends in COVID-19 Cases and SARS-CoV-2 RNA Wastewater Concentrations in the United States." _ACS ES&T Water_ (2022). doi: [10.1021/acsestwater.1c00434](https://doi.org/10.1021/acsestwater.1c00434)
 
-Wei Lin Lee ... **Claire Duvallet** ... Mariana Matus, Janelle Thompson, and Eric J Alm.    
-"Quantitative SARS-CoV-2 alpha variant B. 1.1. 7 tracking in wastewater by allele-specific RT-qPCR."         
-_Environmental Science & Technology Letters_ (2021). doi: [10.1021/acs.estlett.1c00375](https://doi.org/10.1021/acs.estlett.1c00375)
+I spearheaded Biobot's first big Biobot-led publication. We presented our work scaling a nationwide wastewater surveillance system for Covid-19. This was before we knew how well WBE for Covid-19 would work, and at the time, the way the wastewater and clinical case time series aligned was truly mind-blowing.  
 
-Jill S McClary-Gutierrez ... **Claire Duvallet** ... Alexandria B Boehm, Rolf U Halden, Kyle Bibby, Jeseth Delgado Vela.    
-"Standardizing data reporting in the research community to enhance the utility of open data for SARS-CoV-2 wastewater surveillance."    
-_Environmental Science: Water Research & Technology_ (2021). doi: [10.1039/D1EW00235J](https://doi.org/10.1039/D1EW00235J)
+> Amy Xiao ... **Claire Duvallet** ... Janelle Thompson, and Eric J Alm. "Metrics to relate COVID-19 wastewater data to clinical testing dynamics." _Water research_ (2022). doi: [10.1016/j.watres.2022.118070](https://doi.org/10.1016/j.watres.2022.118070)
 
-**Claire Duvallet**, Bryan D Hayes, Timothy B Erickson, Peter R Chai, Mariana Matus.   
-"Mapping community opioid exposure through wastewater-based epidemiology as a
-means to engage pharmacies in harm reduction efforts."   
-_Preventing Chronic Disease_ (2020). doi: [10.5888/pcd17.200053](http://dx.doi.org/10.5888/pcd17.200053)   
+I worked closely with Amy to really lay out _how_ we thought that wastewater data should be used: in combination with other public health data. Importantly, this paper demonstrated what we'd theoretically described in our _Making Waves_ paper: wastewater's lead time changes throughout the pandemic, and depends a lot on other public health factors!
 
-Fuqing Wu, Amy Xiao, Jianbo Zhang, ... **Claire Duvallet** ... Janelle Thompson, and Eric Alm.    
-"SARS-CoV-2 titers in wastewater are higher than expected from clinically confirmed cases."   
-_mSystems_ (2020). doi: [10.1128/mSystems.00614-20](https://msystems.asm.org/content/5/4/e00614-20)
+> Scott W Olesen, Maxim Imakaev, and **Claire Duvallet**. "Making waves: Defining the lead time of wastewater-based epidemiology for COVID-19." _Water Research_ (2021). doi: [10.1016/j.watres.2021.117433](https://doi.org/10.1016/j.watres.2021.117433)
 
-**Claire Duvallet**.     
-"Data detectives, self-love, and humility: a research parasite's perspective."    
-_GigaScience_ (2020). doi: [10.1093/gigascience/giz148](https://doi.org/10.1093/gigascience/giz148).   
+This perspective came from being asked "what is wastewater's lead time?" a million times, and wanting to give a better answer than "it depends." The answer is still "it depends," of course, but in this piece we go through _what_ it depends on a bit more.
 
-Mariana Matus, **Claire Duvallet**, Newsha Ghaeli, Melissa Kido Soule, Krista Longnecker, Ilana Brito, Carlo Ratti, Elizabeth B. Kujawinski, Eric Alm.   
-"24-hour multi-omics analysis of residential sewage reflects human activity and informs public health."    
-_bioRxiv_ (2019) doi: [10.1101/728022](https://doi.org/10.1101/728022).
+> Wei Lin Lee ... **Claire Duvallet** ... Mariana Matus, Janelle Thompson, and Eric J Alm. "Quantitative SARS-CoV-2 alpha variant B.1.1.7 tracking in wastewater by allele-specific RT-qPCR." _Environmental Science & Technology Letters_ (2021). doi: [10.1021/acs.estlett.1c00375](https://doi.org/10.1021/acs.estlett.1c00375)
 
-**Claire Duvallet**, Caroline Zellmer, Pratik Panchal, Shrish Budree, Madji Osman, and Eric Alm.    
-"Framework for rational donor selection in fecal microbiota transplant clinical trials."    
-_PLoS ONE_ (2019) doi: [10.1371/journal.pone.0222881](https://doi.org/10.1371/journal.pone.0222881).     
-Associated github: [cduvallet/donor-selection](https://github.com/cduvallet/donor-selection/)
+Our collaborators in Singapore developed a qPCR-based assay to detect the then-new B.1.1.7 variant. We provided the samples & analysis to validate their method on real wastewater samples. This was before we knew that variants would be _a thing_, and before we had any idea that sequencing wastewater would work. Biobot actually launched this assay as a paid product for a hot sec, for which I served as the technical lead.
 
-Chengzhen Dai, **Claire Duvallet**, An Ni Zhang, Mariana Matus, Newsha Ghaeli, Shinkyu Park, Noriko Endo, Siavash Isazadeh, Kazi Jamil, Carlo Ratti, and Eric Alm.    
-"Multi-site sampling and risk prioritization reveals the public health relevance of antibiotic resistance genes found in sewage environments."      
-_bioRxiv_ (2019). doi: [10.1101/562496](https://doi.org/10.1101/562496).
+> Jill S McClary-Gutierrez ... **Claire Duvallet** ... Alexandria B Boehm, Rolf U Halden, Kyle Bibby, Jeseth Delgado Vela. "Standardizing data reporting in the research community to enhance the utility of open data for SARS-CoV-2 wastewater surveillance." _Environmental Science: Water Research & Technology_ (2021). doi: [10.1039/D1EW00235J](https://doi.org/10.1039/D1EW00235J)
 
-**Claire Duvallet**, Kara Larson, Scott Snapper, Sonia Iosim, Ann Lee, Katherine Freer, Kara May, Eric Alm, and Rachel Rosen.    
-"Aerodigestive sampling reveals altered microbial exchange between lung, oropharyngeal, and gastric microbiomes in children with impaired swallow function."     
-_PLOS ONE_ (2019). doi: [10.1371/journal.pone.0216453](https://doi.org/10.1371/journal.pone.0216453).    
-Associated github: [cduvallet/aspiration-analysis-public](https://github.com/cduvallet/aspiration-analysis-public)
+I was invited to join a large workshop hosted by the [NSF Research Coordination Network (RCN) on Wastewater Surveillance for SARS-CoV-2 and Emerging Public Health Threats](https://sites.nd.edu/rcn-wastewater-sarscov2/) to figure out what metadata was actually crucial to report on in wastewater-based epidemiology. I enjoyed providing my perspective from Biobot's experience working at scale, and had fun meeting folks in the WBE space.
 
-Keegan Korthauer, Patrick K Kimes, **Claire Duvallet**, Alejandro Reyes, Ayshwarya Subramanian, Mingxiang Teng, Chinmay Shukla, Eric J Alm, and Stephanie C Hicks.     
-"A practical guide to methods controlling false discoveries in computational biology."     
-_Genome Biology_ (2019). doi: [10.1186/s13059-019-1716-1](https://doi.org/10.1186/s13059-019-1716-1).    
-Associated github: [pkimes/benchmark-fdr](https://github.com/pkimes/benchmark-fdr)
+> **Claire Duvallet**. "Data detectives, self-love, and humility: a research parasite's perspective." _GigaScience_ (2020). doi: [10.1093/gigascience/giz148](https://doi.org/10.1093/gigascience/giz148).   
 
-Sean M. Gibbons, **Claire Duvallet**, and Eric J. Alm.      
-"Correcting for batch effects in case-control microbiome studies."       
-_PLoS Computational Biology_ (2018) 14(4): e1006102. doi: [10.1371/journal.pone.0176335](https://doi.org/10.1371/journal.pcbi.1006102)
+As a winner of the [Research Parasite](https://researchparasite.com/) award, I got to write this perspective, stepping on my soapbox and sharing lessons learned from my meta-analysis PhD paper.
 
-**Claire Duvallet**.  
-"Meta-analysis generates and prioritizes hypotheses for translational microbiome research."        
-_Microbial Biotechnology_ (2018). doi: [10.1111/1751-7915.13047](https://doi.org/10.1111/1751-7915.13047)
+> Mariana Matus, **Claire Duvallet**, Newsha Ghaeli, Melissa Kido Soule, Krista Longnecker, Ilana Brito, Carlo Ratti, Elizabeth B. Kujawinski, Eric Alm. "24-hour multi-omics analysis of residential sewage reflects human activity and informs public health." _bioRxiv_ (2019) doi: [10.1101/728022](https://doi.org/10.1101/728022).
 
-**Claire Duvallet**, Sean M. Gibbons, Thomas Gurry, Rafael A. Irizarry, and Eric J. Alm.       
-"Meta-analysis of gut microbiome studies identifies disease-specific and shared responses."        
-_Nature Communications_ (2017). doi: [10.1038/s41467-017-01973-8](https://doi.org/10.1038/s41467-017-01973-8).       
-Associated github: [cduvallet/microbiomeHD](https://github.com/cduvallet/microbiomeHD)     
-Associated data: [zenodo record 840333](https://doi.org/10.5281/zenodo.797943).
+I worked closely with Mariana on this paper during grad school and at the beginning of my time at Biobot. This was her PhD work, which laid the foundations for Biobot. I did the majority of the metabolomics work on this paper, which sparked my love and admiration for this non-genomics data type.
 
-Scott W. Olesen, **Claire Duvallet**, and Eric J. Alm.       
-"dbOTU3: A new implementation of distribution-based OTU calling."      
-_PloS ONE_ 12, no. 5 (2017): e0176335. doi: [10.1371/journal.pone.0176335](https://doi.org/10.1371/journal.pone.0176335)
+> **Claire Duvallet**, Caroline Zellmer, Pratik Panchal, Shrish Budree, Madji Osman, and Eric Alm. "Framework for rational donor selection in fecal microbiota transplant clinical trials." _PLoS ONE_ (2019) doi: [10.1371/journal.pone.0222881](https://doi.org/10.1371/journal.pone.0222881). Associated github: [cduvallet/donor-selection](https://github.com/cduvallet/donor-selection/)
+
+This was the final chapter of my thesis, in which I put together everything I'd learned from doing clinically-motivated microbiome research into a theoretical framework for how you would think about approaching donor selection in FMT trials.
+
+> Chengzhen Dai, **Claire Duvallet**, An Ni Zhang, Mariana Matus, Newsha Ghaeli, Shinkyu Park, Noriko Endo, Siavash Isazadeh, Kazi Jamil, Carlo Ratti, and Eric Alm. "Multi-site sampling and risk prioritization reveals the public health relevance of antibiotic resistance genes found in sewage environments." _bioRxiv_ (2019). doi: [10.1101/562496](https://doi.org/10.1101/562496).
+
+I mentored an excellent master's student on this paper. We applied a cool [framework](https://www.nature.com/articles/s41467-021-25096-3) developed by a postdoc in the lab, An-ni, to get past just counting genes and move toward a "so what?" behind antimicrobial resistance genes in wastewater.
+
+> **Claire Duvallet**, Kara Larson, Scott Snapper, Sonia Iosim, Ann Lee, Katherine Freer, Kara May, Eric Alm, and Rachel Rosen. "Aerodigestive sampling reveals altered microbial exchange between lung, oropharyngeal, and gastric microbiomes in children with impaired swallow function." _PLOS ONE_ (2019). doi: [10.1371/journal.pone.0216453](https://doi.org/10.1371/journal.pone.0216453). Associated github: [cduvallet/aspiration-analysis-public](https://github.com/cduvallet/aspiration-analysis-public)
+
+This was my first thesis chapter. I worked independently with a clinical collaborator to analyze a 16S dataset she'd generated from pediatric patients' lung, throat, and nose samples. It was a tough project because of the niche field, few previous studies, and really wacko microbiome data, but I'm super proud of having pulled out some interesting findings that made clinical sense.
+
+> Keegan Korthauer, Patrick K Kimes, **Claire Duvallet**, Alejandro Reyes, Ayshwarya Subramanian, Mingxiang Teng, Chinmay Shukla, Eric J Alm, and Stephanie C Hicks. "A practical guide to methods controlling false discoveries in computational biology." _Genome Biology_ (2019). doi: [10.1186/s13059-019-1716-1](https://doi.org/10.1186/s13059-019-1716-1). Associated github: [pkimes/benchmark-fdr](https://github.com/pkimes/benchmark-fdr)
+
+I hang out with statisticians sometimes! I was thrilled to collaborate with a bunch of folks from Rafa Irizarry's lab applying multiple hypothesis correction methods on a variety of biological data types. I contributed the microbiome datasets, and struggled through learning R to keep up with the cool kids!
+
+> Sean M. Gibbons, **Claire Duvallet**, and Eric J. Alm. "Correcting for batch effects in case-control microbiome studies." _PLoS Computational Biology_ (2018) 14(4): e1006102. doi: [10.1371/journal.pone.0176335](https://doi.org/10.1371/journal.pcbi.1006102)
+
+Early in my PhD, I worked with Sean to develop a super simple statistical method to correct for batch effects. We used the datasets I'd gathered for my meta-analysis, and I also coded up the method into a Python package and also put it in QIIME2.
+
+
 
 ## Non-peer reviewed professional content
 
-_[White paper]_ **Claire Duvallet**, Matthew Boyce. "Normalizing wastewater data." _[Biobot Analytics](https://biobot.io/science/)._ (2023)
+_[White paper]_ **Claire Duvallet**, Matthew Boyce. "[Normalizing wastewater data](/files/BIOBOT_WHITEPAPER_NORMALIZING_WASTEWATER_DATA_V01-1.pdf)." _[Biobot Analytics](https://biobot.io/science/)._ (2023)
 
 _[Blog post]_ **Claire Duvallet**. "[Building a new data visualization: from basic to brilliant!](https://biobot.io/building-a-new-data-visualization-from-ideation-to-interactive-dashboard/)." _[Biobot Analytics](https://biobot.io/blog/)._ (2023)
 
-_[White paper]_ Scott Olesen, Cristin Young, **Claire Duvallet**. "[The Effect of Septic Systems on Wastewater-Based Epidemiology](http://biobot.io/wp-content/uploads/2022/09/BIOBOT_WHITEPAPER_EFFECT_OF_SEPTIC_V01-1.pdf)." _[Biobot Analytics](https://biobot.io/science/)._ (2022)
+_[White paper]_ Scott Olesen, Cristin Young, **Claire Duvallet**. "[The Effect of Septic Systems on Wastewater-Based Epidemiology](/files/BIOBOT_WHITEPAPER_EFFECT_OF_SEPTIC_V01-1.pdf)." _[Biobot Analytics](https://biobot.io/science/)._ (2022)
 
 _[Tutorial]_ **Claire Duvallet**. "[Updating your qiime2 plugin](https://dev.qiime2.org/latest/tutorials/updating-plugin/)." _QIIME 2 developer docs._ (2019).
 
